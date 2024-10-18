@@ -14,8 +14,8 @@ Built a Simple Product Management API with the use of Pydantic and Starlette com
 
 1. **Clone the Repositary:**
 ```bash
-git clone Starlette_Pydantic
-cd Starlette_Pydantic
+git clone https://github.com/Parth-Bapodara/Product-Management-API.git
+cd Product-Management-API
 ```
 
 2. **Create Virtual Enviroment:**
