@@ -1,4 +1,16 @@
-### Installation
+# Product Management API built using Pydantic and Starlette
+Built a Simple Product Management API with the use of Pydantic and Starlette combining with FASTApi, which supports basic CRUD operations.
+
+## Features
+  - **Create Product**: Can create Product.
+  - **Search Product**: Can search Product using ID.
+  - **Delete Product**: Can delete Product. 
+  - **Update Product**: Can Update Information about Product.
+
+## Prequisites
+  - **Python 3.7.0+**
+
+## Installation
 
 1. **Clone the Repositary:**
 ```bash
