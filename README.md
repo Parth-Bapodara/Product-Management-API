@@ -21,7 +21,7 @@ cd Product-Management-API
 2. **Create Virtual Enviroment:**
 ```bash
 python -m venv venv(Virtual Enviroment Name)
-source venv/bin/activate  # Windows: `venv\Scripts\activate' # Linux: 'source venv/bin/activate'
+source venv/bin/activate  # Windows: `venv\Scripts\activate' 
 ```
 
 3. **Install Dependencies:**
