@@ -1,0 +1,23 @@
+-- database: ./products.db
+
+-- update products set price = price * 1.25 where id = 124
+
+-- INSERT INTO products (id,name,description,price,is_available) VALUES
+-- (125,"Keyboard","general thing used for typing",150,1)
+
+--select * from products
+
+-- delete from products where id = 125
+
+-- create table student (
+--      id int PRIMARY KEY,
+--      First_Name varchar(255),
+--      Last_Name varchar(255),
+--      mob_no int(10)
+-- )
+-- drop table students
+-- ALTER TABLE students ADD PRIMARY KEY (id)
+-- ALTER TABLE students ADD CONSTRAINT pk_student_id PRIMARY KEY (id)
+
+
+
